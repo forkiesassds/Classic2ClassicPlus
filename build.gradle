@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group = 'me.icanttellyou.classic2classicplus'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "dev.dewy:nbt:1.5.1"
+}
